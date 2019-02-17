@@ -22,4 +22,6 @@ jest --watch
 ```
 
 ## more info:
+* Matchers
+https://jestjs.io/docs/en/expect
 
